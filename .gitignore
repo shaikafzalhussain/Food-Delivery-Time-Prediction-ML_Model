@@ -1,0 +1,22 @@
+# Virtual environments
+ml_env/
+venv/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Local files
+*.log
+
+# IDE
+.vscode/
+.idea/
